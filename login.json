@@ -1,0 +1,8 @@
+{
+	"code": "OK",
+	"statusHttp": 200,
+	"isValidAccount": true,
+	"isActiveAccount": true,
+	"loginDescription": "Acceso libre :D",
+	"access":true
+}
